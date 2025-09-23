@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science graduate from the BITS-Pilani with a strong interest in Computer Vision, 3D model generation, and AI. Over the years, I’ve developed a deep passion for understanding how AI can enhance virtual experiences, especially through 3D perception and reconstruction. 
+I am a Master’s student in Computer Science at NYU with a background in AI, game development, and data engineering. Previously, I worked at Zynga as a Game Developer and later as an AI & Data Engineer at a startup, where I built systems ranging from multiplayer gameplay features to multi-agent AI frameworks.
 
-I am passionate about building smart, adaptive systems that push the boundaries of immersive experiences. With experience in diffusion models, reinforcement learning, and computer vision, I’m currently exploring how AI can reshape virtual interactions.
+I enjoy working at the intersection of AI, systems, and product development — turning ideas into scalable solutions. My strengths lie in quickly learning new technologies, designing reliable architectures, and building practical applications. Currently, I’m focused on expanding my expertise in machine learning, computer vision, and large-scale systems while working on side projects and collaborations.
 
-My background includes working as a software engineer at Zynga, where I developed solutions that enhanced gameplay experiences. Today, I’m diving deeper into AI-driven 3D perception, working on projects that merge creativity and technology.
+I’m actively seeking opportunities in software engineering, AI/ML, and systems development, with a long-term goal of growing into architect-level roles and eventually driving innovation as a CTO.
 
-Whether I’m working on diffusion models or experimenting with generative AI systems, my goal is to push the limits of what’s possible in the world of immersive technology. In my free time, I enjoy painting, running, and tennis!
-
+Outside of tech, I’m passionate about fitness, martial arts, and gaming — which constantly fuel my curiosity and discipline.
